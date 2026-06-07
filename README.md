@@ -1,6 +1,10 @@
 # Responsive Landing Page
 
-A simple responsive landing page built using HTML and CSS.
+A simple responsive landing page built using HTML and CSS and deployed using GitHub Pages.
+
+## Live Website
+
+https://aishwarya-thorat.github.io/
 
 ## Features
 
@@ -10,6 +14,7 @@ A simple responsive landing page built using HTML and CSS.
 * Hero section with heading, description, button, and illustration
 * Flexbox used for layout management
 * Responsive image scaling
+* Hosted using GitHub Pages
 
 ## Technologies Used
 
@@ -17,18 +22,19 @@ A simple responsive landing page built using HTML and CSS.
 * CSS3
 * Flexbox
 * Media Queries
+* GitHub Pages
 
 ## Project Structure
 
-```
-Responsive-Landing-Page/
+```text
+aishwarya-thorat.github.io/
 │
 ├── index.html
 ├── style.css
 ├── images/
 │   └── responsive-design.svg
-├── desktop_view.png
-├── mobile_view.png
+├── desktop-view.png
+├── mobile-view.png
 └── README.md
 ```
 
@@ -37,7 +43,6 @@ Responsive-Landing-Page/
 ### Desktop View
 
 ![Desktop View](desktop-view.png)
-
 
 ### Mobile View
 
@@ -51,6 +56,8 @@ Through this project, I learned:
 * How to use Flexbox for layouts
 * How to apply Media Queries for different screen sizes
 * How to create mobile-friendly user interfaces
+* How to deploy a website using GitHub Pages
+* How to update a live website using Git commits and pushes
 
 ## Author
 
