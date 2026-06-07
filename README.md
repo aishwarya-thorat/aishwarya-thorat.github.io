@@ -1,4 +1,4 @@
-# Responsive Landing Page
+# Github Pages Website
 
 A simple responsive landing page built using HTML and CSS and deployed using GitHub Pages.
 
